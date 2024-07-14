@@ -79,7 +79,7 @@ body{
 .product li:hover{
     transition: all 0.2s ease-in-out;
     background-color:#F3F4F4;
-    border-bottom:3px blue solid ;
+    border-bottom:3px rgb(0, 255, 55) solid ;
     /* height: -100px; */
     cursor: pointer;
 }
